@@ -1,4 +1,6 @@
 // importacion modulos y rutas
+// INFO Dani : falta crear carpeta code_BBDD_libreria en archivo general
+// el code esta en archivo proyectos Propios / Libreria API 
 
 const express = require('express');
 const cors = require('cors');
